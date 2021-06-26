@@ -1,0 +1,66 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 12/11/2019 16:24
+  	*/
+
+@font-face {
+  font-family: "Flaticon1";
+  src: url("./Flaticon1.eot");
+  src: url("./Flaticon1.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon1.woff2") format("woff2"),
+       url("./Flaticon1.woff") format("woff"),
+       url("./Flaticon1.ttf") format("truetype"),
+       url("./Flaticon1.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon1";
+    src: url("./Flaticon1.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-1"]:before, [class*=" flaticon-1"]:before,
+[class^="flaticon-1"]:after, [class*=" flaticon-1"]:after {   
+  font-family: Flaticon1;
+font-style: normal;
+}
+
+.flaticon-1-factory-2:before { content: "\f100"; }
+.flaticon-1-engineer:before { content: "\f101"; }
+.flaticon-1-valve:before { content: "\f102"; }
+.flaticon-1-factory:before { content: "\f103"; }
+.flaticon-1-barrel:before { content: "\f104"; }
+.flaticon-1-conveyor:before { content: "\f105"; }
+.flaticon-1-battery:before { content: "\f106"; }
+.flaticon-1-factory-1:before { content: "\f107"; }
+.flaticon-1-fuel-truck:before { content: "\f108"; }
+.flaticon-1-container:before { content: "\f109"; }
+.flaticon-1-gear:before { content: "\f10a"; }
+.flaticon-1-oil:before { content: "\f10b"; }
+.flaticon-1-robot-arm:before { content: "\f10c"; }
+.flaticon-1-professional:before { content: "\f10d"; }
+.flaticon-1-truck:before { content: "\f10e"; }
+.flaticon-1-oil-1:before { content: "\f10f"; }
+.flaticon-1-pump-jack:before { content: "\f110"; }
+.flaticon-1-voltmeter:before { content: "\f111"; }
+.flaticon-1-tanker:before { content: "\f112"; }
+.flaticon-1-forklift:before { content: "\f113"; }
+.flaticon-1-product:before { content: "\f114"; }
+.flaticon-1-cart:before { content: "\f115"; }
+.flaticon-1-eolic-energy:before { content: "\f116"; }
+.flaticon-1-tool:before { content: "\f117"; }
+.flaticon-1-gear-1:before { content: "\f118"; }
+.flaticon-1-radiation:before { content: "\f119"; }
+.flaticon-1-oil-2:before { content: "\f11a"; }
+.flaticon-1-nuclear-plant:before { content: "\f11b"; }
+.flaticon-1-container-1:before { content: "\f11c"; }
+.flaticon-1-robotic-arm:before { content: "\f11d"; }
+.flaticon-1-tank:before { content: "\f11e"; }
+.flaticon-1-helmet:before { content: "\f11f"; }
+.flaticon-1-battery-1:before { content: "\f120"; }
+.flaticon-1-fuel-station:before { content: "\f121"; }
+.flaticon-1-solar-panel:before { content: "\f122"; }
+.flaticon-1-cone:before { content: "\f123"; }
